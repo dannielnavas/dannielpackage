@@ -1,0 +1,24 @@
+{
+  "name": "dannielpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Danniel Dev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannielnavas/dannielpackage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dannielnavas/dannielpackage/issues"
+  },
+  "homepage": "https://github.com/dannielnavas/dannielpackage#readme",
+  "bin": {
+    "dannielpackage": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
